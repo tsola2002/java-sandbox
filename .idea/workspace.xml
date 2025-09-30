@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6abac86-76b9-4776-bbea-81ea601e210e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/IterationStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/LogicStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +43,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operators">
+  <component name="RunManager" selected="Application.IterationStatements">
     <configuration name="Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch01_datatypes.Conversion" />
+      <module name="java-sandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsola2002.ch01_datatypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IterationStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch01_datatypes.IterationStatements" />
+      <module name="java-sandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsola2002.ch01_datatypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch01_datatypes.LogicStatements" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
@@ -81,25 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch01_datatypes.PrimitiveTypes" />
-      <module name="java-sandbox" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch01_datatypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IterationStatements" />
+        <item itemvalue="Application.LogicStatements" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Conversion" />
-        <item itemvalue="Application.PrimitiveTypes" />
       </list>
     </recent_temporary>
   </component>

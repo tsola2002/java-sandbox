@@ -20,6 +20,9 @@ public class Operators {
     int j = 1;
     int k = 3;
     int l = 4;
+    String n = "1";
+    String o = "1";
+
     System.out.println("1++ : " + i++ );
     System.out.println("1++ : " + i );
     System.out.println("1++ : " + ++j );
@@ -35,7 +38,21 @@ public class Operators {
 
 
 
-    // ASSIGNMENT OPERATORS
+
+
+    // COMPARISON OPERATORS
+    //double equals operator(loose equality operator)
+    System.out.println("double equals: " + (i == j));
+    System.out.println( k >= i);
+    // triple equals operator(strict equality operator)
+    // System.out.println(n === o);
+
+    System.out.println();
+
+
+
+
+
 
 
   }
