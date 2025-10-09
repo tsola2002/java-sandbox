@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6abac86-76b9-4776-bbea-81ea601e210e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/IterationStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/LogicStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch03_collection_data_type/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch03_collection_data_type/ListDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch03_collection_data_type/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch03_collection_data_type/SetDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch03_collection_data_type/TimeRelated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch04_strings_iostreams_files/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch04_strings_iostreams_files/Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch01_datatypes/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IterationStatements">
-    <configuration name="Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch01_datatypes.Conversion" />
+  <component name="RunManager" selected="Application.Files">
+    <configuration name="Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch04_strings_iostreams_files.Files" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch01_datatypes.*" />
+          <option name="PATTERN" value="com.tsola2002.ch04_strings_iostreams_files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterationStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch01_datatypes.IterationStatements" />
+    <configuration name="ListDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch03_collection_data_type.ListDataTypes" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch01_datatypes.*" />
+          <option name="PATTERN" value="com.tsola2002.ch03_collection_data_type.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch01_datatypes.LogicStatements" />
+    <configuration name="Maps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch03_collection_data_type.Maps" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch01_datatypes.*" />
+          <option name="PATTERN" value="com.tsola2002.ch03_collection_data_type.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.Main" />
+    <configuration name="SetDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch03_collection_data_type.SetDataTypes" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.*" />
+          <option name="PATTERN" value="com.tsola2002.ch03_collection_data_type.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch01_datatypes.Operators" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch04_strings_iostreams_files.Strings" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch01_datatypes.*" />
+          <option name="PATTERN" value="com.tsola2002.ch04_strings_iostreams_files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IterationStatements" />
-        <item itemvalue="Application.LogicStatements" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Conversion" />
+        <item itemvalue="Application.Files" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.Maps" />
+        <item itemvalue="Application.SetDataTypes" />
+        <item itemvalue="Application.ListDataTypes" />
       </list>
     </recent_temporary>
   </component>
