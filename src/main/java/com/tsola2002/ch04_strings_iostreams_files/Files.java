@@ -5,18 +5,18 @@ import java.io.File;
 public class Files {
 
   public static void main(String[] args) {
-    // createFile1();
+    createFile1();
     // createFolderAndFile();
-    listFilesFolders();
+    //listFilesFolders();
   }
 
   public static void createFile1(){
     //CREATE THE FILE OBJECT
-    File f = new File("ournewfile.txt");
+    File f = new File("outputstream.txt");
     try {
-      ///f.createNewFile();
+      f.createNewFile();
       // THIS WILL DELETE OUT FILE
-      f.delete();
+      //f.delete();
     } catch (Exception e) {
       // THIS WILL DISPLAY A STACKTRACE ERROR
       e.printStackTrace();
