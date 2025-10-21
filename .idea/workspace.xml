@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6abac86-76b9-4776-bbea-81ea601e210e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/outputcharacter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/CH05_exceptions/CheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/CH05_exceptions/FinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/CH05_exceptions/UncheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch04_strings_iostreams_files/ReadCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch04_strings_iostreams_files/ReadData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch04_strings_iostreams_files/WriteCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch04_strings_iostreams_files/WriteData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch06_database/Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch06_database/Crud.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch04_strings_iostreams_files/Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch04_strings_iostreams_files/Files.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,34 +37,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CheckedException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Files.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinallyBlock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReadData.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UncheckedException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteCharacter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteData.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/OMATSOLA/Documents/java-sandbox&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CheckedException.executor": "Run",
+    "Application.Connect.executor": "Run",
+    "Application.Crud.executor": "Run",
+    "Application.Files.executor": "Run",
+    "Application.FinallyBlock.executor": "Run",
+    "Application.ReadCharacter.executor": "Run",
+    "Application.ReadData.executor": "Run",
+    "Application.UncheckedException.executor": "Run",
+    "Application.WriteCharacter.executor": "Run",
+    "Application.WriteData.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/OMATSOLA/Documents/java-sandbox",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.FinallyBlock">
+}]]></component>
+  <component name="RunManager" selected="Application.Crud">
     <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tsola2002.CH05_exceptions.CheckedException" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tsola2002.CH05_exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Connect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch06_database.Connect" />
+      <module name="java-sandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsola2002.ch06_database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Crud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch06_database.Crud" />
+      <module name="java-sandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tsola2002.ch06_database.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,19 +113,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch04_strings_iostreams_files.ReadCharacter" />
-      <module name="java-sandbox" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch04_strings_iostreams_files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UncheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tsola2002.CH05_exceptions.UncheckedException" />
       <module name="java-sandbox" />
@@ -119,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch04_strings_iostreams_files.WriteCharacter" />
-      <module name="java-sandbox" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch04_strings_iostreams_files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Crud" />
+        <item itemvalue="Application.Connect" />
         <item itemvalue="Application.FinallyBlock" />
         <item itemvalue="Application.CheckedException" />
         <item itemvalue="Application.UncheckedException" />
-        <item itemvalue="Application.ReadCharacter" />
-        <item itemvalue="Application.WriteCharacter" />
       </list>
     </recent_temporary>
   </component>
