@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6abac86-76b9-4776-bbea-81ea601e210e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch07_network/UdpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch06_database/Crud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch06_database/Crud.java" afterDir="false" />
     </list>

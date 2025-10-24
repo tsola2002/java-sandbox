@@ -89,7 +89,6 @@ public class Crud {
             stmt.setString(2, lastName);
             stmt.setString(3, dob);
             stmt.setInt(4, id);
-
             int rowsUpdated = stmt.executeUpdate();
             if (rowsUpdated > 0) {
                 System.out.println("User with ID " + id + " updated successfully.");
