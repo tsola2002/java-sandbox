@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6abac86-76b9-4776-bbea-81ea601e210e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch07_network/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch07_network/HttpGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch07_network/TCPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch07_network/TCPServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsola2002/ch07_network/WebsiteLoader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +45,15 @@
     "Application.Crud.executor": "Run",
     "Application.Files.executor": "Run",
     "Application.FinallyBlock.executor": "Run",
+    "Application.HttpGet.executor": "Run",
     "Application.ReadCharacter.executor": "Run",
     "Application.ReadData.executor": "Run",
+    "Application.TCPClient.executor": "Run",
+    "Application.TCPServer.executor": "Run",
+    "Application.UdpClient.executor": "Run",
     "Application.UdpServer.executor": "Run",
     "Application.UncheckedException.executor": "Run",
+    "Application.WebsiteLoader.executor": "Run",
     "Application.WriteCharacter.executor": "Run",
     "Application.WriteData.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -59,13 +67,13 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UdpServer">
-    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.CH05_exceptions.CheckedException" />
+  <component name="RunManager" selected="Application.TCPClient">
+    <configuration name="HttpGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch07_network.HttpGet" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.CH05_exceptions.*" />
+          <option name="PATTERN" value="com.tsola2002.ch07_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Connect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch06_database.Connect" />
+    <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch07_network.TCPClient" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch06_database.*" />
+          <option name="PATTERN" value="com.tsola2002.ch07_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Crud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch06_database.Crud" />
+    <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch07_network.TCPServer" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.ch06_database.*" />
+          <option name="PATTERN" value="com.tsola2002.ch07_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinallyBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.CH05_exceptions.FinallyBlock" />
+    <configuration name="UdpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch07_network.UdpClient" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tsola2002.CH05_exceptions.*" />
+          <option name="PATTERN" value="com.tsola2002.ch07_network.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch07_network.UdpServer" />
+    <configuration name="WebsiteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tsola2002.ch07_network.WebsiteLoader" />
       <module name="java-sandbox" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UdpServer" />
-        <item itemvalue="Application.Crud" />
-        <item itemvalue="Application.Connect" />
-        <item itemvalue="Application.FinallyBlock" />
-        <item itemvalue="Application.CheckedException" />
+        <item itemvalue="Application.TCPClient" />
+        <item itemvalue="Application.TCPServer" />
+        <item itemvalue="Application.HttpGet" />
+        <item itemvalue="Application.WebsiteLoader" />
+        <item itemvalue="Application.UdpClient" />
       </list>
     </recent_temporary>
   </component>
